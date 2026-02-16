@@ -48,5 +48,5 @@ class ButtonData
 }
 
 const grid: Grid<ButtonData> = new Grid();
-// Do what you'll need with the MultiGrid
+// Do what you'll need with the Grid
 ```
