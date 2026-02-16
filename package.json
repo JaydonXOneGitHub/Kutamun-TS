@@ -1,0 +1,20 @@
+{
+  "name": "kutamun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "clear": "rm -rf dist"
+  },
+  "keywords": [],
+  "author": "Jaydon Yeany",
+  "license": "MIT",
+  "readme": "README.md",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
